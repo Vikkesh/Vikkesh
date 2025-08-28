@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikkesh
 ================================================================================================================================
-
 Full Stack Web Developer
 ------------------------
-
 I’m building UniRush, a platform to bring all campus SMEs under one roof—because why not make life easier for students and businesses?
 
-I dabble in full stack web development and am always learning new things—whether it's SaaS, building good architecture , better querying, or just how to avoid 2-hour debugging sessions caused by a missing quotation.
+I dabble in full stack web development and am always learning new things—whether it's SaaS, building good architecture , better querying, or just how to avoid 2-hour debugging sessions caused by a missing quotation. I also practice my Data Structures and Algos for better design plans.
 
-I love building things, collaborating on cool ideas, and having productive sessions with like-minded folks. Oh, I also do some DSA occasionally.
+I love building things, collaborating on cool ideas, and having productive sessions with like-minded folks.
 
 Always up for learning, brainstorming, and working on exciting projects.
 
@@ -27,3 +25,6 @@ Always up for learning, brainstorming, and working on exciting projects.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Vikkesh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vikkesh-sivakumaar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/viksy?ext=heatmap)
