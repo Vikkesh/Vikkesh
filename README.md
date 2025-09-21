@@ -31,4 +31,3 @@ Always up for learning, brainstorming, and working on exciting projects.
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/viksy?ext=heatmap" alt="LeetCode Stats">
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Vikkesh&color=64ffda&style=for-the-badge&label=Profile+Views)
