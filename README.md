@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikkesh
 ================================================================================================================================
-Full Stack Web Developer
+Full Stack Web Developer 
 ------------------------
-I’m building UniRush, a platform to bring all campus SMEs under one roof—because why not make life easier for students and businesses?
+
 
 I dabble in full stack web development and am always learning new things—whether it's SaaS, building good architecture , better querying, or just how to avoid 2-hour debugging sessions caused by a missing quotation. I also practice my Data Structures and Algos for better design plans.
 
