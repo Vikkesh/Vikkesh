@@ -13,7 +13,7 @@ Always up for learning, brainstorming, and working on exciting projects.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LinkedIn or here @Github](http://www.linkedin.com/in/vikkesh-sivakumaar)
 * ✉️  You can contact me at [fieryvikkesh@gmail.com](mailto:fieryvikkesh@gmail.com)
-* 🚀  I'm currently working on [UniRush](http://unirush.in)
+* 🚀  I'm currently working on optimizing task offloading.
 * 🧠  I'm currently learning Machine Learning and SQL/DBMS optimized querying
 * 👥  I'm looking to collaborate on AI or Machine Learning projects
 * 💬   Coding has so many domains, one's inate wish to do it all
