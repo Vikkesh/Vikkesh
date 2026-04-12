@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikkesh
 ================================================================================================================================
-Full Stack Web Developer 
+Full Stack Web Developer & AI engineer
 ------------------------
 
 
-I dabble in full stack web development and am always learning new things—whether it's SaaS, building good architecture , better querying, or just how to avoid 2-hour debugging sessions caused by a missing quotation. I also practice my Data Structures and Algos for better design plans.
+I dabble in full stack web development, machine & reinforcement learning and am always dabbling in new things—whether it's SaaS, building good architecture , better querying, or just how to avoid 2-hour debugging sessions caused by a missing quotation. I also practice my Data Structures and Algos for better design plans.
 
 I love building things, collaborating on cool ideas, and having productive sessions with like-minded folks.
 
