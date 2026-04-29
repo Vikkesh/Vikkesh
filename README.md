@@ -1,30 +1,110 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikkesh
-================================================================================================================================
-Full Stack Web Developer & AI engineer
-------------------------
+<div align="center">
 
+<h1>👨‍💻 Vikkesh Sivakumaar</h1>
+<h3>Full Stack Web Developer & AI Engineer</h3>
 
-I dabble in full stack web development, machine & reinforcement learning and am always dabbling in new things—whether it's SaaS, building good architecture , better querying, or just how to avoid 2-hour debugging sessions caused by a missing quotation. I also practice my Data Structures and Algos for better design plans.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development;Machine+%26+Reinforcement+Learning;Building+Scalable+Architecture;Optimizing+Task+Offloading" />
 
-I love building things, collaborating on cool ideas, and having productive sessions with like-minded folks.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=header"/>
 
-Always up for learning, brainstorming, and working on exciting projects.
+</div>
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [LinkedIn or here @Github](http://www.linkedin.com/in/vikkesh-sivakumaar)
-* ✉️  You can contact me at [fieryvikkesh@gmail.com](mailto:fieryvikkesh@gmail.com)
-* 🚀  I'm currently working on optimizing task offloading.
-* 🧠  I'm currently learning Machine Learning and SQL/DBMS optimized querying
-* 👥  I'm looking to collaborate on AI or Machine Learning projects
-* 💬   Coding has so many domains, one's inate wish to do it all
+<br/>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-</p>
+## 🚀 About Me
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Vikkesh&theme=tokyonight&hide_border=true" alt="streak stats" /></p>
-### Socials
+```javascript
+const vikkesh = {
+  location: "India",
+  role: "Full Stack Web Developer & AI Engineer",
 
-<p align="center"> <a href="https://www.github.com/Vikkesh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vikkesh-sivakumaar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+  currentFocus: [
+    "Optimizing task offloading",
+    "Machine Learning",
+    "SQL/DBMS optimized querying"
+  ],
 
+  tech: [
+    "JavaScript", "Java", "Python", "C",
+    "React", "Node.js",
+    "MySQL", "MongoDB"
+  ],
 
+  interests: [
+    "SaaS",
+    "Scalable architecture",
+    "Efficient querying",
+    "Avoiding 2-hour debugging caused by missing quotes 😅"
+  ],
+
+  learning: "Data Structures & Algorithms for better system design",
+
+  collaboration: "Open to AI / ML projects",
+
+  mindset: "Coding has too many domains — naturally want to explore them all"
+};
+
+const buildSomethingCool = () => {
+  return "Always up for building, collaborating, and learning 🚀";
+};
+```
+
+<br/>
+
+<div align="center">
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 💻 Tech Stack
+<br/><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,java,python,c,html,css,react,vite,tailwind,nodejs,mysql,mongodb,git,vscode&perline=5" />
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 📈 GitHub Stats
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikkesh&layout=compact&theme=tokyonight&hide_border=false" />
+
+</td>
+
+</tr>
+</table>
+
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://github.com/Vikkesh" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vikkesh-sivakumaar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:fieryvikkesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=100&section=footer"/>
+
+</div>
