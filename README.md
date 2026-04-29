@@ -41,7 +41,7 @@ const vikkesh = {
 
   collaboration: "Open to AI / ML projects",
 
-  mindset: "Coding has too many domains — naturally want to explore them all"
+  mindset: "Coding has too many domains, naturally want to explore them all"
 };
 
 const buildSomethingCool = () => {
